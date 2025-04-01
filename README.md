@@ -1,4 +1,4 @@
-![NeutraLink Banner](./banner.png)
+![NeutraLink Banner](./banner.svg)
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Smart Contracts](https://img.shields.io/badge/smart--contracts-Solidity-blue)
