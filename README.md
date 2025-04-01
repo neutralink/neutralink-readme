@@ -1,3 +1,9 @@
+![NeutraLink Banner](./banner.png)
+
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Smart Contracts](https://img.shields.io/badge/smart--contracts-Solidity-blue)
+![Platform Type](https://img.shields.io/badge/platform-Web3%20%2B%20IoT-lightgrey)
+
 ```markdown
 # 🌍 NeutraLink — Project Index & Ecosystem Overview
 
